@@ -1,0 +1,29 @@
+commit 8062973633ebdac29f73b2ef0bba4c121a950504
+Author: Nestor Adame Delgado <nestoradame84@gmail.com>
+Date:   Thu Feb 5 18:47:57 2026 -0800
+
+    Added fav game div
+
+commit f461107055749fd8d57a58673371f1061a0baa3d
+Author: Nestor Adame Delgado <nestoradame84@gmail.com>
+Date:   Thu Feb 5 18:45:59 2026 -0800
+
+    Added fav food div
+
+commit 11b7cfbdc4e6fe41b801d302129532e861ac1c13
+Author: Nestor Adame Delgado <nestoradame84@gmail.com>
+Date:   Thu Feb 5 18:41:29 2026 -0800
+
+    Added README describeing the repo
+
+commit 7bbfcc97c46e69a66e11c968e0c3ea1678d6dbf8
+Author: Nestor Adame Delgado <nestoradame84@gmail.com>
+Date:   Thu Feb 5 18:35:03 2026 -0800
+
+    Filled in required info in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
